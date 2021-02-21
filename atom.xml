@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhiwu233.github.io</id>
     <title>zhi_wuの小破站</title>
-    <updated>2021-02-21T08:04:45.066Z</updated>
+    <updated>2021-02-21T08:47:51.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhiwu233.github.io"/>
     <link rel="self" href="https://zhiwu233.github.io/atom.xml"/>
@@ -10,14 +10,6 @@
     <logo>https://zhiwu233.github.io/images/avatar.png</logo>
     <icon>https://zhiwu233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, zhi_wuの小破站</rights>
-    <entry>
-        <title type="html"><![CDATA[葛平]]></title>
-        <id>https://zhiwu233.github.io/post/ge-ping/</id>
-        <link href="https://zhiwu233.github.io/post/ge-ping/">
-        </link>
-        <updated>2021-02-21T07:56:52.000Z</updated>
-        <content type="html"><![CDATA[<iframe height=498 width=510 src='https://player.youku.com/embed/XMzQ0Mzg1MDM0NA==' frameborder=0 'allowfullscreen'></iframe>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[沙雕网站]]></title>
         <id>https://zhiwu233.github.io/post/sha-diao-wang-zhan/</id>

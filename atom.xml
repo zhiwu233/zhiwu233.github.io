@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhiwu233.github.io</id>
     <title>zhi_wuの小破站</title>
-    <updated>2021-02-21T05:54:24.334Z</updated>
+    <updated>2021-02-21T06:07:05.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhiwu233.github.io"/>
     <link rel="self" href="https://zhiwu233.github.io/atom.xml"/>
@@ -39,7 +39,7 @@
         </link>
         <updated>2021-02-21T04:45:50.000Z</updated>
         <content type="html"><![CDATA[<h1 id="hello-world">Hello World!</h1>
-<p>hello 个锤子</p>
+<p><font size=100 color=#FF0000>Hello 个锤子 </fornt></p>
 ]]></content>
     </entry>
 </feed>

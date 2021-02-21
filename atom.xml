@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhiwu233.github.io</id>
     <title>zhi_wuの小破站</title>
-    <updated>2021-02-21T05:51:23.669Z</updated>
+    <updated>2021-02-21T05:54:24.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhiwu233.github.io"/>
     <link rel="self" href="https://zhiwu233.github.io/atom.xml"/>
@@ -29,6 +29,7 @@
 <a href="http://www.rrrgggbbb.com/#">RRRRGGGGBBBB</a><br>
 <a href="http://randomcolour.com/">随机的颜色</a><br>
 <a href="https://cat-bounce.com/">玩猫</a></p>
+<h3 id="都是外国的网站加载起来可能有font-colorff0000-size50亿font-些慢">都是外国的网站，加载起来可能有<font color=#FF0000 size=50>亿</font> 些慢</h3>
 ]]></content>
     </entry>
     <entry>

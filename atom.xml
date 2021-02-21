@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhiwu233.github.io</id>
     <title>zhi_wuの小破站</title>
-    <updated>2021-02-21T04:53:05.317Z</updated>
+    <updated>2021-02-21T05:40:29.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhiwu233.github.io"/>
     <link rel="self" href="https://zhiwu233.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://zhiwu233.github.io/images/avatar.png</logo>
     <icon>https://zhiwu233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, zhi_wuの小破站</rights>
+    <entry>
+        <title type="html"><![CDATA[沙雕网站]]></title>
+        <id>https://zhiwu233.github.io/post/sha-diao-wang-zhan/</id>
+        <link href="https://zhiwu233.github.io/post/sha-diao-wang-zhan/">
+        </link>
+        <updated>2021-02-21T05:25:45.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.fidgetspin.xyz">指尖陀螺?</a><br>
+<a href="http://papertoilet.com/">卫生纸？</a><br>
+<a href="http://endless.horse">hoooooooooooooooooooooooooooooores</a><br>
+<a href="http://corndog.io">只能看的网站</a><br>
+<a href="https://thatsthefinger.com/">十分有趣的网站!</a><br>
+<a href="https://weirdorconfusing.com/">随便看看</a><br>
+<a href="http://www.staggeringbeauty.com/">黑色的棍状物体</a><font color=#FFFF00>???????</font></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World! ]]></title>
         <id>https://zhiwu233.github.io/post/hello-world/</id>

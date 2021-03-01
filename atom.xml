@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhiwu233.github.io</id>
     <title>zhi_wuの小破站</title>
-    <updated>2021-03-01T11:50:47.569Z</updated>
+    <updated>2021-03-01T12:59:26.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhiwu233.github.io"/>
     <link rel="self" href="https://zhiwu233.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://zhiwu233.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, zhi_wuの小破站</rights>
     <entry>
-        <title type="html"><![CDATA[沙雕网站]]></title>
+        <title type="html"><![CDATA[有趣の网站]]></title>
         <id>https://zhiwu233.github.io/post/sha-diao-wang-zhan/</id>
         <link href="https://zhiwu233.github.io/post/sha-diao-wang-zhan/">
         </link>
@@ -33,12 +33,13 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=5264842&auto=1&height=32"></iframe>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello World! ]]></title>
+        <title type="html"><![CDATA[走个程序Hello World! ]]></title>
         <id>https://zhiwu233.github.io/post/hello-world/</id>
         <link href="https://zhiwu233.github.io/post/hello-world/">
         </link>
         <updated>2021-02-21T04:45:50.000Z</updated>
         <content type="html"><![CDATA[<h1 id="hello-world">Hello World!</h1>
+<h1 id="hello-html">Hello HTML!</h1>
 <p><font size=100 color=#FF0000>Hello 个锤子 </fornt><br>
 <a href="https://imgchr.com/i/yHfsnx"><img src="https://s3.ax1x.com/2021/02/22/yHfsnx.png" alt="yHfsnx.png" loading="lazy"></a></p>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=280 height=52 src="//music.163.com/outchain/player?type=2&id=1485081131&auto=1&height=32"></iframe>]]></content>

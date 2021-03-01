@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhiwu233.github.io</id>
     <title>zhi_wuの小破站</title>
-    <updated>2021-03-01T13:34:33.947Z</updated>
+    <updated>2021-03-01T13:34:46.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhiwu233.github.io"/>
     <link rel="self" href="https://zhiwu233.github.io/atom.xml"/>
@@ -29,6 +29,28 @@
         <content type="html"><![CDATA[<p>我的QQ：3323805738<br>
 这里有时会分享学习各种编程语言的进度哦</p>
 ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有趣の网站]]></title>
+        <id>https://zhiwu233.github.io/post/sha-diao-wang-zhan/</id>
+        <link href="https://zhiwu233.github.io/post/sha-diao-wang-zhan/">
+        </link>
+        <updated>2021-02-21T05:25:45.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.fidgetspin.xyz">指尖陀螺?</a><br>
+<a href="http://papertoilet.com/">卫生纸？</a><br>
+<a href="http://endless.horse">hoooooooooooooooooooooooooooooores</a><br>
+<a href="http://corndog.io">只能看的网站</a><br>
+<a href="https://thatsthefinger.com/">十分有趣的网站!</a><br>
+<a href="https://weirdorconfusing.com/">随便看看</a><br>
+<a href="http://www.staggeringbeauty.com/">黑色的棍</a><font color=#FFFF00>？！？！</font><br>
+<a href="http://burymewithmymoney.com/">burymewithmymoney</a><br>
+<a href="http://www.republiquedesmangues.fr/">有趣的果子</a><br>
+<a href="http://www.movenowthinklater.com/">看下棋的</a><br>
+<a href="http://www.rrrgggbbb.com/#">RRRRGGGGBBBB</a><br>
+<a href="http://randomcolour.com/">随机的颜色</a><br>
+<a href="https://cat-bounce.com/">玩猫</a></p>
+<h3 id="都是外国的网站加载起来可能有font-colorff0000-size50亿font-些慢">都是外国的网站，加载起来可能有<font color=#FF0000 size=50>亿</font> 些慢</h3>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=5264842&auto=1&height=32"></iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[走个程序Hello World! ]]></title>
